@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Akulinda</h1>
-<h3 align="center">As a cybersecurity and data enthusiast, I thrive at the intersection of defending systems and revealing data's stories. I'm on a mission to make the digital world more secure and insightful, one line of code at a time. Join me on this journey of continuous learning and innovation.</h3>
+<h3 align="center">As a Data Analyst and cybersecurity enthusiast, I thrive at the intersection of  revealing data's stories and defending systems. I'm on a mission to make the digital world more secure and insightful, one line of code at a time. Join me on this journey of continuous learning and innovation.</h3>
 
 - 🌱 I’m currently learning **python web scraping**
 
