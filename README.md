@@ -2,7 +2,7 @@
 <h3 align="center">As a Data Analyst and cybersecurity enthusiast, I thrive at the intersection of  revealing data's stories and defending systems. I'm on a mission to make the digital world more secure and insightful, one line of code at a time. Join me on this journey of continuous learning and innovation.</h3>
 
 # 💫 About Me:
-<br>- 🌱 I’m currently learning **Data Science and Machine Learning**<br><br>- 👯 I’m looking to collaborate on **Data analysis and Cyber Security projects**<br><br>- 💬 Ask me about **Data analysis, Tableau, Data Cleaning**<br><br>- 📫 How to reach me **vincentakulinda@gmail.com**
+<br>- 🌱 I’m currently learning **Data Science and Machine Learning**<br><br>- 👯 I’m looking to collaborate on **Data analysis and Cyber Security projects**<br><br>- 💬 Ask me about **Data analysis, Tableau, On chain Data Analysis**<br><br>- 📫 How to reach me **vincentakulinda@gmail.com**
 
 
 ## 🌐 Socials:
